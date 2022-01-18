@@ -1,6 +1,7 @@
 ### Hey, I'm Ander 👋
 
-I'm a 20 year old programmer
+I'm a 20 year old programmer specialized in multiplatform applications willing to apply my 
+knowledge in exciting and challenging projects
 
 ## 🔭 Current
 
