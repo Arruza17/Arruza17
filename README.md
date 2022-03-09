@@ -5,7 +5,7 @@ knowledge in exciting and challenging projects
 
 ## 🔭 Current
 
-I'm currently working on different projects and learning other languages.
+I'm currently working learning TypeScript and MEAN stack.
 
 ## 📫 Contact
 
