@@ -5,7 +5,7 @@ knowledge in exciting and challenging projects
 
 ## 🔭 Current
 
-I'm currently working learning TypeScript and MEAN stack.
+I'm currently working learning ASP .NET and PLSQL.
 
 ## 📫 Contact
 
